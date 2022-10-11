@@ -2,6 +2,7 @@
 
 |  #  | Challenge                                                                                                                     | Solution                                                                              |
 | :-: | ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------|
+|  9  | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=true)                          | [AppleAndOrange.java](./solutions-of-algorithms/AppleAndOrange.java)                  |
 |  8  | [Grading Students](https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true)                                   | [Grading Students.java](./solutions-of-algorithms/GradingStudents.java)               |
 |  7  | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem?isFullScreen=true)                | [BirthdayCakeCandles.java](./solutions-of-algorithms/BirthdayCakeCandles.java)        |
 |  6  | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem?isFullScreen=true)                                  | [Mini-MaxSum.java](./solutions-of-algorithms/Mini-MaxSum.java)                        |
@@ -10,6 +11,8 @@
 |  3  | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem?isFullScreen=true)                                      | [PlusMinus.java](./solutions-of-algorithms/PlusMinus.java)                            |
 |  2  | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem?isFullScreen=true)                              | [aVeryBigSum.java](./solutions-of-algorithms/aVeryBigSum.java)                        |
 |  1  | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem?isFullScreen=true)                  | [CompareTheTriplets.java](./solutions-of-algorithms/CompareTheTriplets.java)          |
+
+
 
 
 
