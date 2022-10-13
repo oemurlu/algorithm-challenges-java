@@ -2,6 +2,7 @@
 
 |  #  | Challenge                                                                                                                     | Solution                                                                              |
 | :-: | ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------|
+|  10 | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem?isFullScreen=true)       | [BreakingTheRecords.java](./solutions-of-algorithms/BreakingTheRecords.java)          |
 |  9  | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=true)                          | [AppleAndOrange.java](./solutions-of-algorithms/AppleAndOrange.java)                  |
 |  8  | [Grading Students](https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true)                                   | [Grading Students.java](./solutions-of-algorithms/GradingStudents.java)               |
 |  7  | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem?isFullScreen=true)                | [BirthdayCakeCandles.java](./solutions-of-algorithms/BirthdayCakeCandles.java)        |
