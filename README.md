@@ -2,6 +2,7 @@
 
 |  #  | Challenge                                                                                                                     | Solution                                                                              |
 | :-: | ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------|
+|  17 | [Find Digits](https://www.hackerrank.com/challenges/find-digits/problem?isFullScreen=true)                                    | [FindDigits.java](./solutions-of-algorithms/FindDigits.java)              |
 |  16 | [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem?isFullScreen=true)                      | [ViralAdvertising.java](./solutions-of-algorithms/ViralAdvertising.java)              |
 |  15 | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem?isFullScreen=true)                            | [TheHurdleRace.java](./solutions-of-algorithms/TheHurdleRace.java)                    |
 |  14 | [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?isFullScreen=true)                          | [CatsAndAMouse.java](./solutions-of-algorithms/CatsAndAMouse.java)                    |
