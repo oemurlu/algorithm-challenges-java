@@ -2,7 +2,8 @@
 
 |  #  | Challenge                                                                                                                     | Solution                                                                              |
 | :-: | ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------|
-|  17 | [Find Digits](https://www.hackerrank.com/challenges/find-digits/problem?isFullScreen=true)                                    | [FindDigits.java](./solutions-of-algorithms/FindDigits.java)              |
+|  18 | [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem?isFullScreen=true)                                  | [UtopianTree.java](./solutions-of-algorithms/UtopianTree.java)                        |
+|  17 | [Find Digits](https://www.hackerrank.com/challenges/find-digits/problem?isFullScreen=true)                                    | [FindDigits.java](./solutions-of-algorithms/FindDigits.java)                          |
 |  16 | [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem?isFullScreen=true)                      | [ViralAdvertising.java](./solutions-of-algorithms/ViralAdvertising.java)              |
 |  15 | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem?isFullScreen=true)                            | [TheHurdleRace.java](./solutions-of-algorithms/TheHurdleRace.java)                    |
 |  14 | [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?isFullScreen=true)                          | [CatsAndAMouse.java](./solutions-of-algorithms/CatsAndAMouse.java)                    |
@@ -19,6 +20,7 @@
 |  3  | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem?isFullScreen=true)                                      | [PlusMinus.java](./solutions-of-algorithms/PlusMinus.java)                            |
 |  2  | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem?isFullScreen=true)                              | [aVeryBigSum.java](./solutions-of-algorithms/aVeryBigSum.java)                        |
 |  1  | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem?isFullScreen=true)                  | [CompareTheTriplets.java](./solutions-of-algorithms/CompareTheTriplets.java)          |
+
 
 
 
