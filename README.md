@@ -2,6 +2,7 @@
 
 |  #  | Challenge                                                                                                                     | Solution                                                                              |
 | :-: | ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------|
+|  21 | [Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem?isFullScreen=true)                                 | [NumberLineJumps.java](./solutions-of-algorithms/NumberLineJumps.java)                |
 |  20 | [Beautiful Days the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem?isFullScreen=true)     | [BeautifulDaysTheMovies.java](./solutions-of-algorithms/BeautifulDaysTheMovies.java)  |
 |  19 | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem?isFullScreen=true)                            | [AngryProfessor.java](./solutions-of-algorithms/AngryProfessor.java)                  |
 |  18 | [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem?isFullScreen=true)                                  | [UtopianTree.java](./solutions-of-algorithms/UtopianTree.java)                        |
