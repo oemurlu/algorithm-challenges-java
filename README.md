@@ -2,6 +2,7 @@
 
 |  #  | Challenge                                                                                                                     | Solution                                                                              |
 | :-: | ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------|
+|  23 | [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation/problem?isFullScreen=true)                     | [SequenceEquation.java](./solutions-of-algorithms/SequenceEquation.java)        |
 |  22 | [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem?isFullScreen=true)                | [ExtraLongFactorials.java](./solutions-of-algorithms/ExtraLongFactorials.java)        |
 |  21 | [Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem?isFullScreen=true)                                 | [NumberLineJumps.java](./solutions-of-algorithms/NumberLineJumps.java)                |
 |  20 | [Beautiful Days the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem?isFullScreen=true)     | [BeautifulDaysTheMovies.java](./solutions-of-algorithms/BeautifulDaysTheMovies.java)  |
