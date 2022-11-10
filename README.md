@@ -2,7 +2,8 @@
 
 |  #  | Challenge                                                                                                                     | Solution                                                                              |
 | :-: | ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------|
-|  23 | [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation/problem?isFullScreen=true)                     | [SequenceEquation.java](./solutions-of-algorithms/SequenceEquation.java)        |
+|  24 | [Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem?isFullScreen=true)                     | [EqualizeTheArray.java](./solutions-of-algorithms/EqualizeTheArray.java)              |
+|  23 | [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation/problem?isFullScreen=true)                     | [SequenceEquation.java](./solutions-of-algorithms/SequenceEquation.java)              |
 |  22 | [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem?isFullScreen=true)                | [ExtraLongFactorials.java](./solutions-of-algorithms/ExtraLongFactorials.java)        |
 |  21 | [Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem?isFullScreen=true)                                 | [NumberLineJumps.java](./solutions-of-algorithms/NumberLineJumps.java)                |
 |  20 | [Beautiful Days the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem?isFullScreen=true)     | [BeautifulDaysTheMovies.java](./solutions-of-algorithms/BeautifulDaysTheMovies.java)  |
@@ -25,9 +26,6 @@
 |  3  | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem?isFullScreen=true)                                      | [PlusMinus.java](./solutions-of-algorithms/PlusMinus.java)                            |
 |  2  | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem?isFullScreen=true)                              | [aVeryBigSum.java](./solutions-of-algorithms/aVeryBigSum.java)                        |
 |  1  | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem?isFullScreen=true)                  | [CompareTheTriplets.java](./solutions-of-algorithms/CompareTheTriplets.java)          |
-
-
-
 
 
 
