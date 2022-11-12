@@ -2,6 +2,7 @@
 
 |  #  | Challenge                                                                                                                     | Solution                                                                              |
 | :-: | ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------|
+|  25 | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem?isFullScreen=true)                          | [BetweenTwoSets.java](./solutions-of-algorithms/BetweenTwoSets.java)                  |
 |  24 | [Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem?isFullScreen=true)                     | [EqualizeTheArray.java](./solutions-of-algorithms/EqualizeTheArray.java)              |
 |  23 | [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation/problem?isFullScreen=true)                     | [SequenceEquation.java](./solutions-of-algorithms/SequenceEquation.java)              |
 |  22 | [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem?isFullScreen=true)                | [ExtraLongFactorials.java](./solutions-of-algorithms/ExtraLongFactorials.java)        |
