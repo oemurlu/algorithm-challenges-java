@@ -2,6 +2,7 @@
 
 |  #  | Challenge                                                                                                                     | Solution                                                                              |
 | :-: | ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------|
+|  27 | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem?isFullScreen=true)                            | [MigratoryBirds.java](./solutions-of-algorithms/MigratoryBirds.java)                  |
 |  26 | [Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem?isFullScreen=true)                         | [SubarrayDivision.java](./solutions-of-algorithms/SubarrayDivision.java)              |
 |  25 | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem?isFullScreen=true)                          | [BetweenTwoSets.java](./solutions-of-algorithms/BetweenTwoSets.java)                  |
 |  24 | [Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem?isFullScreen=true)                     | [EqualizeTheArray.java](./solutions-of-algorithms/EqualizeTheArray.java)              |
@@ -28,6 +29,7 @@
 |  3  | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem?isFullScreen=true)                                      | [PlusMinus.java](./solutions-of-algorithms/PlusMinus.java)                            |
 |  2  | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem?isFullScreen=true)                              | [aVeryBigSum.java](./solutions-of-algorithms/aVeryBigSum.java)                        |
 |  1  | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem?isFullScreen=true)                  | [CompareTheTriplets.java](./solutions-of-algorithms/CompareTheTriplets.java)          |
+
 
 
 
