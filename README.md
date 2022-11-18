@@ -2,6 +2,7 @@
 
 |  #  | Challenge                                                                                                                     | Solution                                                                              |
 | :-: | ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------|
+|  30 | [JumpingOnTheClouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem?isFullScreen=true)                   | [JumpingOnTheClouds](./solutions-of-algorithms/JumpingOnTheClouds.java)               |
 |  29 | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem?isFullScreen=true)                          | [CountingValleys.java](./solutions-of-algorithms/.java)                               |
 |  28 | [SalesByMatch](https://www.hackerrank.com/challenges/sock-merchant/problem?isFullScreen=true)                                 | [SalesByMatch.java](./solutions-of-algorithms/SalesByMatch.java)                      |
 |  27 | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem?isFullScreen=true)                            | [MigratoryBirds.java](./solutions-of-algorithms/MigratoryBirds.java)                  |
