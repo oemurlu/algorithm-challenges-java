@@ -2,6 +2,7 @@
 
 |  #  | Challenge                                                                                                                           | Solution                                                                                      |
 | :-: | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------|
+|  32 | [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem?isFullScreen=true)                              | [MinimumDistances.java](./solutions-of-algorithms/MinimumDistances.java)                      |
 |  31 | [Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem?isFullScreen=true) | [JumpingOnTheCloudsRevisited.java](./solutions-of-algorithms/JumpingOnTheCloudsRevisited.java)|
 |  30 | [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem?isFullScreen=true)                      | [JumpingOnTheClouds.java](./solutions-of-algorithms/JumpingOnTheClouds.java)                  |
 |  29 | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem?isFullScreen=true)                                | [CountingValleys.java](./solutions-of-algorithms/.java)                                       |
