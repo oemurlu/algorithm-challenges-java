@@ -2,6 +2,7 @@
 
 |  #  | Challenge                                                                                                                           | Solution                                                                                      |
 | :-: | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------|
+|  34 | [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem?isFullScreen=true)                        | [SherlockAndSquares.java](./solutions-of-algorithms/SherlockAndSquares.java)                  |
 |  33 | [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem?isFullScreen=true)                          | [DesignerPdfViewer.java](./solutions-of-algorithms/DesignerPdfViewer.java)                    |
 |  32 | [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem?isFullScreen=true)                              | [MinimumDistances.java](./solutions-of-algorithms/MinimumDistances.java)                      |
 |  31 | [Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem?isFullScreen=true) | [JumpingOnTheCloudsRevisited.java](./solutions-of-algorithms/JumpingOnTheCloudsRevisited.java)|
