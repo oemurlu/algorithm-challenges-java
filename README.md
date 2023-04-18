@@ -2,6 +2,7 @@
 
 |  #  | Challenge                                                                                                                           | Solution                                                                                      |
 | :-: | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------|
+|  39 | [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem?isFullScreen=true)                                  | [RepeatedString.java](./solutions-of-algorithms/RepeatedString.java)                          |
 |  38 | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem?isFullScreen=true)                                  | [PickingNumbers.java](./solutions-of-algorithms/PickingNumbers.java)                          |
 |  37 | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem?isFullScreen=true)                                | [ElectronicsShop.java](./solutions-of-algorithms/ElectronicsShop.java)                        |
 |  36 | [Library Fine](https://www.hackerrank.com/challenges/library-fine/problem?isFullScreen=true)                                        | [LibraryFine.java](./solutions-of-algorithms/LibraryFine.java)                                |
@@ -40,6 +41,7 @@
 |  3  | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem?isFullScreen=true)                                            | [PlusMinus.java](./solutions-of-algorithms/PlusMinus.java)                                    |
 |  2  | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem?isFullScreen=true)                                    | [aVeryBigSum.java](./solutions-of-algorithms/aVeryBigSum.java)                                |
 |  1  | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem?isFullScreen=true)                        | [CompareTheTriplets.java](./solutions-of-algorithms/CompareTheTriplets.java)                  |
+
 
 
 
