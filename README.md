@@ -2,6 +2,7 @@
 
 |  #  | Challenge                                                                                                                           | Solution                                                                                      |
 | :-: | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------|
+|  41 | [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem?isFullScreen=true)                      | [DayOfTheProgrammer.java](./solutions-of-algorithms/DayOfTheProgrammer.java)                  |
 |  40 | [Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday/problem?isFullScreen=true)                                     | [TaumAndBday.java](./solutions-of-algorithms/TaumAndBday.java)                                |
 |  39 | [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem?isFullScreen=true)                                  | [RepeatedString.java](./solutions-of-algorithms/RepeatedString.java)                          |
 |  38 | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem?isFullScreen=true)                                  | [PickingNumbers.java](./solutions-of-algorithms/PickingNumbers.java)                          |
